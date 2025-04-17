@@ -1,0 +1,35 @@
+p{
+    font-weight: bold;
+    font-size:larger;
+}
+
+#top{
+    text-decoration: underline;
+}
+
+.emphasizedText{
+    font-style: italic;
+    font-weight: bold;
+    color:darkblue;
+}
+
+body{
+    background-color:whitesmoke;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-align: center;
+    border: 5px solid black;
+    margin: 20px;
+    padding: 10px;
+}
+
+.centered-list{
+    padding-left: 0;
+    list-style-position: outside;
+    margin: 0 auto;
+    display: table;
+    text-align: left;
+}
+
+.quote{
+    font-family:monospace;
+}
